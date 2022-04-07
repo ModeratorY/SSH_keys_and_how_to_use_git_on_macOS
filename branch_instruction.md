@@ -30,7 +30,7 @@
       
 *Пример:* **git push --set-upstream origin namebranch**
 
-# Как удалить ветку на сервере GitHub
+# Как удалить ветку
 
 1) git branch -d namebranch - удалить ветку с именем namebranch
 2) git branch -D namebranch - принудительно удалить ветку с именем namebranch
