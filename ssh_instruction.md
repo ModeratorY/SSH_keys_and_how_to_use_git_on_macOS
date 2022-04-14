@@ -30,10 +30,10 @@
 2) Находясь в дериктории нашего репозитория, вводим команду *git init* чтобы проинициализировать репозиторий
 3) Дальше командой *git add .* все файлы, которые мы хотим закинуть на *GitHub*
 4) командой *git commit -m "комментарий"* делаем первый комит
-5) Теперь для того, чтобы *запустить наш репозиторий* на GitHub через терминал, поочерёдно вводим команды:
-**git remote add origin git@github.com:Username/namerepoz.git**
-**git branch -M main**
-**git push -u origin main**
+5) Теперь для того, чтобы *запустить наш репозиторий* на GitHub через терминал, поочерёдно вводим команды:  
+   **git remote add origin git@github.com:Username/namerepoz.git**  
+   **git branch -M main**  
+   **git push -u origin main**
 
 ## Заключение
 
